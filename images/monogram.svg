@@ -14,7 +14,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="ralewaymonogram1.svg"
+   sodipodi:docname="monogram.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs27" />
@@ -26,18 +26,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="30.762563"
-     inkscape:cy="34.071068"
+     inkscape:cx="16.399456"
+     inkscape:cy="37.606602"
      inkscape:document-units="px"
-     inkscape:current-layer="text42"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1072"
      inkscape:window-maximized="1"
      inkscape:grid-bbox="true"
-     inkscape:pagecheckerboard="false" />
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -51,6 +51,18 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.6458557,8.5601447 c 11.1325833,-11.1325826 36.0989673,-11.1325826 47.2315513,0 11.117291,11.1172913 11.117291,36.0493813 0,47.1666743 -11.132584,11.132582 -36.098968,11.132582 -47.2315513,0 -11.1172918,-11.117293 -11.1172918,-36.049383 0,-47.1666743 z"
+       id="rect12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
@@ -61,7 +73,7 @@
        transform="translate(4.428169,-7.400755)">
       <path
          d="m 26.776855,9.7534236 h 2.517334 L 41.880856,40.046758 H 38.723522 L 34.115523,28.228091 H 21.827522 l -4.522667,11.818667 h -3.2 z m 7.338668,18.4746674 -6.101333,-14.976 -6.186668,14.976 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Raleway;-inkscape-font-specification:Raleway"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#000000;fill-opacity:1"
          id="path48"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccc" />
@@ -71,12 +83,13 @@
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:6.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="text46">
       <g
-         id="g3758">
+         id="g3758"
+         style="fill:#000000;fill-opacity:1">
         <path
            sodipodi:nodetypes="cccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path51"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Raleway;-inkscape-font-specification:Raleway"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Raleway;-inkscape-font-specification:Raleway;fill:#000000;fill-opacity:1"
            d="m 30.20272,44.019569 1.895304,-4.644622 1.774029,4.644622 v 0 L 39.67472,57.71557 50.640054,30.878236 h 3.242667 L 41.040053,61.17157 H 38.39472 L 32.037387,46.195569 25.637386,61.17157 H 23.03472 L 10.234719,30.878236 h 3.2 L 24.44272,57.71557 Z" />
       </g>
     </g>

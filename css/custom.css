@@ -1,51 +1,110 @@
-#nav {
-  width: 100%;
-  height: 44px;
-  text-align: center;
-}
-
-#nav ul{
-  display: inline-block;
-  list-style-type: none;
-}
-
-#nav li{
-  float: left;
-}
-
-#nav li a{
-  display: block;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  color: black;
-  text-decoration: none;
-}
-
-#nav li a:hover {
-  background-color: #eceeef;
-}
-
-#menu-divider {
-  margin-top: 0;
-  margin-bottom: 0;
-  width: 75%;
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, rgba(225, 225, 225, 0), rgba(225, 225, 225, 1),rgba(225, 225, 225, 1), rgba(225, 225, 225, 0));
-}
-
-.hero{
-  text-align: center;
-}
-
-.hero img{
-  display: inline-block;
-}
-
-body {
-  background-color: aliceblue;
-  height: 100%;
-}
-
+#nav {
+
+  width: 100%;
+
+  height: 44px;
+
+  text-align: center;
+
+}
+
+
+
+#nav ul{
+
+  display: inline-block;
+
+  list-style-type: none;
+
+}
+
+
+
+#nav li{
+
+  float: left;
+
+}
+
+
+
+#nav li a{
+
+  display: block;
+
+  padding-left: 20px;
+
+  padding-right: 20px;
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+  color: black;
+
+  text-decoration: none;
+
+}
+
+
+
+#nav li a:hover {
+
+  background-color: #eceeef;
+
+}
+
+
+
+#menu-divider {
+
+  margin-top: 0;
+
+  margin-bottom: 0;
+
+  width: 75%;
+
+  border: 0;
+
+  height: 1px;
+
+  background-image: linear-gradient(to right, rgba(225, 225, 225, 0), rgba(225, 225, 225, 1),rgba(225, 225, 225, 1), rgba(225, 225, 225, 0));
+
+}
+
+
+
+.hero{
+
+  text-align: center;
+
+}
+
+
+
+.hero img{
+
+  display: inline-block;
+
+}
+
+
+
+body {
+
+  background-color: aliceblue;
+
+  height: 100%;
+
+  /*hide scroll bar for */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Chrome hide scrollbar */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+
