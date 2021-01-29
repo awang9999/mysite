@@ -100,6 +100,21 @@ body::-webkit-scrollbar {
   margin-left: -10px;
 }
 
+.circular--portrait {
+  display: inline-block;
+  position: relative;
+  width: 425px;
+  height: 425px;
+  overflow: hidden;
+  border-radius: var(--borderWidth);
+}
+
+.circular--portrait img{
+  width: 100%;
+  height: auto;
+  margin-top: -60px
+}
+
 .gradient-border {
   --borderWidth: 3px;
   background: #1D1F20;
